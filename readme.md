@@ -72,4 +72,33 @@
 (2) Latency caused between each layer
 (3) Overall latency justification
 </code></pre>
+
+
+## System Design Problems
+* TinyURL
+* Instagram | Timeline | Newsfeed | Twitter
+* Dropbox | Google Drive
+* Whatsapp | Facebook Messenger
+* Youtube | Netflix
+* Uber | IRCTC
+* Yelp | Nearby
+* Typeahead Suggestion
+* API Rate Limiter
+* Twitter Search
+* Web Crawler
+
+## System Design Basics
+* Key Characteristics of Distributed Systems
+* Load Balancing
+* Preview
+* Caching
+* Data Partitioning
+* Indexes
+* Proxies
+* Redundancy and Replication
+* SQL vs. NoSQL
+* CAP Theorem
+* Consistent Hashing
+* Long-Polling vs WebSockets vs Server-Sent Events
+
 <p class="has-line-data" data-line-start="69" data-line-end="70">Credit: <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a></p>
