@@ -1,3 +1,75 @@
+## System Design Basics
+* Key Characteristics of Distributed Systems
+* Monolithic VS Microservice (Service Discovery, Resiliency)
+* Vertical vs horizontal scaling
+* CAP theorem
+* ACID vs BASE
+* Redundancy and Replication
+* Partitioning/Sharding 
+* Consistent Hashing
+* Optimistic vs pessimistic locking
+* Strong vs eventual consistency
+* SQL vs NoSQL
+* Types of NoSQL (Key value, Wide column, Document-based, Graph-based)
+* Caching
+* Data center/racks/hosts
+* CPU/memory/Hard drives/Network bandwidth
+* Random vs sequential read/writes to disk
+* HTTP vs HTTP2 vs WebSocket
+* Long-Polling vs WebSockets vs Server-Sent Events
+* TCP/IP model
+* IPv4 vs IPv6
+* TCP vs UDP
+* DNS lookup
+* HTTP & TLS
+* Public key infrastructure and certificate authority(CA)
+* Symmetric vs asymmetric encryption
+* Load Balancing
+* Consistent Hashing
+* CDNs & Edges
+* Data Partitioning
+* Indexes
+* Master-Slave, Master-Master
+* Active-Passive, Active-Active
+* Leader election
+* Design patterns and Object-oriented design
+* Virtual machines and containers
+* Pub-sub architecture 
+* MapReduce
+* Bloom filters and Count-Min sketch
+* Paxos 
+* Multithreading, locks, synchronization, CAS(compare and set)
+* Proxies
+
+## Tools
+* Cassandra
+* MongoDB/Couchbase
+* Mysql
+* Memcached
+* Redis
+* Zookeeper
+* Kafka
+* NGINX
+* HAProxy
+* Solr, Elastic search
+* Amazon, EC2, S3
+* Docker, Kubernetes
+* Hadoop/Spark and HDFS
+* Eureka, Hysterix, 
+    
+## System Design Problems
+* TinyURL
+* Instagram | Timeline | Newsfeed | Twitter
+* Dropbox | Google Drive
+* Whatsapp | Facebook Messenger
+* Youtube | Netflix
+* Uber | IRCTC
+* Yelp | Nearby
+* Typeahead Suggestion
+* API Rate Limiter
+* Twitter Search
+* Web Crawler
+
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="System_Design_Interview_Approach_Template_0"></a>System Design Interview Approach Template</h2>
 <h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="THINGS_TO_CONSIDER_2_min"></a>THINGS TO CONSIDER [5 min]</h3>
 <pre><code>    (1) Features
@@ -83,79 +155,6 @@
 (2) Latency caused between each layer
 (3) Overall latency justification
 </code></pre>
-
-
-## System Design Problems
-* TinyURL
-* Instagram | Timeline | Newsfeed | Twitter
-* Dropbox | Google Drive
-* Whatsapp | Facebook Messenger
-* Youtube | Netflix
-* Uber | IRCTC
-* Yelp | Nearby
-* Typeahead Suggestion
-* API Rate Limiter
-* Twitter Search
-* Web Crawler
-
-## System Design Basics
-* Key Characteristics of Distributed Systems
-* Monolithic VS Microservice (Service Discovery, Resiliency)
-* Vertical vs horizontal scaling
-* CAP theorem
-* ACID vs BASE
-* Redundancy and Replication
-* Partitioning/Sharding 
-* Consistent Hashing
-* Optimistic vs pessimistic locking
-* Strong vs eventual consistency
-* SQL vs NoSQL
-* Types of NoSQL (Key value, Wide column, Document-based, Graph-based)
-* Caching
-* Data center/racks/hosts
-* CPU/memory/Hard drives/Network bandwidth
-* Random vs sequential read/writes to disk
-* HTTP vs HTTP2 vs WebSocket
-* Long-Polling vs WebSockets vs Server-Sent Events
-* TCP/IP model
-* IPv4 vs IPv6
-* TCP vs UDP
-* DNS lookup
-* HTTP & TLS
-* Public key infrastructure and certificate authority(CA)
-* Symmetric vs asymmetric encryption
-* Load Balancing
-* Consistent Hashing
-* CDNs & Edges
-* Data Partitioning
-* Indexes
-* Master-Slave, Master-Master
-* Active-Passive, Active-Active
-* Leader election
-* Design patterns and Object-oriented design
-* Virtual machines and containers
-* Pub-sub architecture 
-* MapReduce
-* Bloom filters and Count-Min sketch
-* Paxos 
-* Multithreading, locks, synchronization, CAS(compare and set)
-* Proxies
-
-## Tools
-* Cassandra
-* MongoDB/Couchbase
-* Mysql
-* Memcached
-* Redis
-* Zookeeper
-* Kafka
-* NGINX
-* HAProxy
-* Solr, Elastic search
-* Amazon, EC2, S3
-* Docker, Kubernetes
-* Hadoop/Spark and HDFS
-
 
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
