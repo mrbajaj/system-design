@@ -100,16 +100,63 @@
 
 ## System Design Basics
 * Key Characteristics of Distributed Systems
-* Load Balancing
-* Preview
+* Monolithic VS Microservice (Service Discovery, Resiliency)
+* Vertical vs horizontal scaling
+* CAP theorem
+* ACID vs BASE
+* Redundancy and Replication
+* Partitioning/Sharding 
+* Consistent Hashing
+* Optimistic vs pessimistic locking
+* Strong vs eventual consistency
+* SQL vs NoSQL
+* Types of NoSQL (Key value, Wide column, Document-based, Graph-based)
 * Caching
+* Data center/racks/hosts
+* CPU/memory/Hard drives/Network bandwidth
+* Random vs sequential read/writes to disk
+* HTTP vs HTTP2 vs WebSocket
+* Long-Polling vs WebSockets vs Server-Sent Events
+* TCP/IP model
+* IPv4 vs IPv6
+* TCP vs UDP
+* DNS lookup
+* HTTP & TLS
+* Public key infrastructure and certificate authority(CA)
+* Symmetric vs asymmetric encryption
+* Load Balancing
+* Consistent Hashing
+* CDNs & Edges
 * Data Partitioning
 * Indexes
+* Master-Slave, Master-Master
+* Active-Passive, Active-Active
+* Leader election
+* Design patterns and Object-oriented design
+* Virtual machines and containers
+* Pub-sub architecture 
+* MapReduce
+* Bloom filters and Count-Min sketch
+* Paxos 
+* Multithreading, locks, synchronization, CAS(compare and set)
 * Proxies
-* Redundancy and Replication
-* SQL vs. NoSQL
-* CAP Theorem
-* Consistent Hashing
-* Long-Polling vs WebSockets vs Server-Sent Events
 
-<p class="has-line-data" data-line-start="69" data-line-end="70">Credit: <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a></p>
+## Tools
+* Cassandra
+* MongoDB/Couchbase
+* Mysql
+* Memcached
+* Redis
+* Zookeeper
+* Kafka
+* NGINX
+* HAProxy
+* Solr, Elastic search
+* Amazon, EC2, S3
+* Docker, Kubernetes
+* Hadoop/Spark and HDFS
+
+
+#### Credit: 
+  * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
+  * <a href="https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo">https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo</a>
