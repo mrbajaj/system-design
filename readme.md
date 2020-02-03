@@ -35,6 +35,7 @@
 * Design patterns and Object-oriented design
 * Virtual machines and containers
 * Pub-sub architecture 
+* REST, GraphQL
 * MapReduce
 * Bloom filters and Count-Min sketch
 * Paxos 
