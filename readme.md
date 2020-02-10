@@ -1,5 +1,5 @@
 ## System Design Basics
-* Key Characteristics of Distributed Systems
+* Key Characteristics and Fundamentals of Distributed Systems
 * Monolithic VS Microservice (Service Discovery, Resiliency)
 * Vertical vs horizontal scaling
 * CAP theorem
