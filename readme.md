@@ -69,6 +69,7 @@
 * Typeahead Suggestion
 * API Rate Limiter
 * Twitter Search
+* Google Search
 * Web Crawler
 
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="System_Design_Interview_Approach_Template_0"></a>System Design Interview Approach Template</h2>
