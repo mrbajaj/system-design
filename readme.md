@@ -58,19 +58,35 @@
 * Hadoop/Spark and HDFS
 * Eureka, Hysterix, 
     
-## System Design Problems
+## System Design Problems (HLD + LLD)
 * TinyURL
-* Instagram | Timeline | Newsfeed | Twitter
+* Instagram | Photo hosting platform
+* Timeline | Newsfeed | Twitter
 * Dropbox | Google Drive
 * Whatsapp | Facebook Messenger
+* MakeMyTrip | BookMyShow
+* Amazon | Flipkart
 * Youtube | Netflix
 * Uber | IRCTC
+* Swiggy | Zomato
 * Yelp | Nearby
-* Typeahead Suggestion
-* API Rate Limiter
 * Twitter Search
 * Google Search
+* SplitWise
+* Zerodha
+* Recommendation System
+* Typeahead Suggestion
+* API Rate Limiter
 * Web Crawler
+* Rate limiting system 
+* Distributed cache 
+* Auto-complete system
+
+## Low Level Design Problems (Class diagram)
+* Elevator system 
+* Snake and Ladder game
+* Tic Tac Toe
+* ATM machine
 
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="System_Design_Interview_Approach_Template_0"></a>System Design Interview Approach Template</h2>
 <h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="THINGS_TO_CONSIDER_2_min"></a>THINGS TO CONSIDER [5 min]</h3>
