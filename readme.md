@@ -160,6 +160,7 @@
 
 #### Other Resources: 
   * <a href="https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0"> 25 Interview Questions </a>
+  * <a href="http://highscalability.com/all-time-favorites">High-Scalability</a>
   
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
