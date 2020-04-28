@@ -158,6 +158,9 @@
 (3) Overall latency justification
 </code></pre>
 
+#### Other Resources: 
+  * <a href="https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0"> 25 Interview Questions </a>
+  
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
   * <a href="https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo">https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo</a>
