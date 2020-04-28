@@ -74,13 +74,12 @@
 * Google Search
 * SplitWise
 * Zerodha
-* Recommendation System
-* Typeahead Suggestion
 * API Rate Limiter
 * Web Crawler
 * Rate limiting system 
 * Distributed cache 
-* Auto-complete system
+* Typeahead Suggestion | Auto-complete system
+* Recommendation System
 
 ## Low Level Design Problems (Class diagram)
 * Elevator system 
