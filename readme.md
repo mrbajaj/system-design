@@ -178,6 +178,7 @@
   * <a href="http://highscalability.com/all-time-favorites">High-Scalability</a>
   * <a href="https://www.hiredintech.com/classrooms/system-design/lesson/52">Hired In Tech </a>
   * <a href="https://workat.tech/system-design/article/best-resources-for-system-design-interview-i-dbv5ok8vtjya">workat.tech</a>
+  * <a href="https://github.com/checkcheckzz/system-design-interview">System-Design</a>
   
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
