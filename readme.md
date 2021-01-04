@@ -45,7 +45,8 @@
 ## Tools
 * Cassandra
 * MongoDB/Couchbase
-* Mysql
+* RabbitMQ / Azure Service Bus
+* Mysql / PostgreSQL
 * Memcached
 * Redis
 * Zookeeper
@@ -56,7 +57,9 @@
 * Amazon, EC2, S3
 * Docker, Kubernetes
 * Hadoop/Spark and HDFS
-* Eureka, Hysterix, 
+* Eureka, Hysterix
+* Heroku / Azure DevOps
+* Jenkins CI/CD
     
 ## System Design Problems (HLD + LLD)
 * TinyURL
