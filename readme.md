@@ -186,6 +186,7 @@
   * <a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a>
   * <a href="https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=1"> Gaurav Sen Playlist </a>
   * <a href="https://www.youtube.com/c/TechDummiesNarendraL/playlists"> Narendra L - Tech Dummies </a>
+  * <a href="https://github.com/prasadgujar/low-level-design-primer"> low-level-design-primer </a>
   
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
