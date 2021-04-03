@@ -42,7 +42,7 @@
 * Multithreading, locks, synchronization, CAS(compare and set)
 * Proxies
 
-## Tools
+## Tools and Technologies
 * Cassandra
 * MongoDB/Couchbase
 * RabbitMQ / Azure Service Bus
