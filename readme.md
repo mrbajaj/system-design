@@ -66,7 +66,7 @@
 * Instagram | Photo hosting platform
 * Timeline | Newsfeed | Twitter
 * Dropbox | Google Drive
-* Whatsapp | Facebook Messenger [link](https://www.youtube.com/watch?v=L7LtmfFYjc4&t=690s)
+* Whatsapp | Facebook Messenger [NL](https://www.youtube.com/watch?v=L7LtmfFYjc4&t=690s) [GS](https://www.youtube.com/watch?v=vvhC64hQZMk&t=1267s)
 * MakeMyTrip | BookMyShow
 * Amazon | Flipkart
 * Youtube | Netflix
