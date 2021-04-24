@@ -188,6 +188,7 @@
   * <a href="https://www.youtube.com/c/TechDummiesNarendraL/playlists"> Narendra L - Tech Dummies </a>
   * <a href="https://github.com/prasadgujar/low-level-design-primer"> low-level-design-primer </a>
   * [System Design Interesting Reads](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
+  * [Real Time Analytics on Big Data Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
   
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
