@@ -189,6 +189,7 @@
   * <a href="https://github.com/prasadgujar/low-level-design-primer"> low-level-design-primer </a>
   * [System Design Interesting Reads](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
   * [Real Time Analytics on Big Data Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
+  * [how-i-finally-got-some-awesome-offers](https://leetcode.com/discuss/interview-experience/1172461/how-i-finally-got-some-awesome-offers)
   
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
