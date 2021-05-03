@@ -93,8 +93,8 @@
 * Vehicle Parking System
 * Online Coding Platform [problem-statement](https://github.com/hocyadav/leetcode-lld-flipkart-coding-blox)
 
-<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="System_Design_Interview_Approach_Template_0"></a>System Design Interview Approach Template</h2>
-<h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="THINGS_TO_CONSIDER_2_min"></a>THINGS TO CONSIDER [5 min]</h3>
+## System Design Interview Approach Template
+### THINGS TO CONSIDER [5 min]
 <pre><code>    (1) Features
     (2) API
     (3) Availability
@@ -105,14 +105,14 @@
     (8) Security and Privacy
     (9) Cost-effective
 </code></pre>
-<h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="FEATURE_EXPECTATIONS_5_min_1"></a>FEATURE EXPECTATIONS [5 min]</h3>
+### FEATURE EXPECTATIONS [5 min]
 <pre><code>    (1) Use cases
     (2) Scenarios that will not be covered
     (3) Who will use
     (4) How many will use
     (5) Usage patterns
 </code></pre>
-<h3 class="code-line" data-line-start=7 data-line-end=8 ><a id="ESTIMATIONS_5_min_7"></a>ESTIMATIONS [5 min]</h3>
+### ESTIMATIONS [5 min]
 <pre><code>    (1) Throughput (QPS for read and write queries)
     (2) Latency expected from the system (for read and write queries)
     (3) Read/Write ratio
@@ -125,17 +125,17 @@
             - How much RAM and how many machines do we need for us to achieve this ?
             - Amount of data you want to store in disk/ssd
 </code></pre>
-<h3 class="code-line" data-line-start=19 data-line-end=20 ><a id="DESIGN_GOALS_5_min_19"></a>DESIGN GOALS [5 min]</h3>
+###  DESIGN GOALS [5 min]
 <pre><code>    (1) Latency and Throughput requirements
     (2) Consistency vs Availability  [Weak/strong/eventual =&gt; consistency | Failover/replication =&gt; availability]
 </code></pre>
-<h3 class="code-line" data-line-start=22 data-line-end=23 ><a id="HIGH_LEVEL_DESIGN_510_min_22"></a>HIGH LEVEL DESIGN [5-10 min]</h3>
+### HIGH LEVEL DESIGN [5-10 min]
 <pre><code>    (1) APIs for Read/Write scenarios for crucial components
     (2) Database schema
     (3) Basic algorithm
     (4) High level design for Read/Write scenario
 </code></pre>
-<h3 class="code-line" data-line-start=27 data-line-end=28 ><a id="DEEP_DIVE_1520_min_27"></a>DEEP DIVE [15-20 min]</h3>
+### DEEP DIVE [15-20 min]
 <pre><code>    (1) Scaling the algorithm
     (2) Scaling individual components: 
             -&gt; Availability, Consistency and Scale story for each component
@@ -173,7 +173,7 @@
                     &gt; REST
                     &gt; RPC
 </code></pre>
-<h3 class="code-line" data-line-start=64 data-line-end=65 ><a id="JUSTIFY_5_min_64"></a>JUSTIFY [5 min]</h3>
+### JUSTIFY [5 min]
 <pre><code>(1) Throughput of each layer
 (2) Latency caused between each layer
 (3) Overall latency justification
