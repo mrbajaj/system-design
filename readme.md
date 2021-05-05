@@ -195,6 +195,7 @@
   * [how-i-finally-got-some-awesome-offers](https://leetcode.com/discuss/interview-experience/1172461/how-i-finally-got-some-awesome-offers)
   * [Pragmatic Programming Techniques](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
   * [Multithreading](http://www.albahari.com/threading/)
+  * [Helpful list of LeetCode Posts on System Design](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
   
 #### Credit: 
   * <a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">https://leetcode.com/discuss/career/229177/My-System-Design-Template</a>
