@@ -93,7 +93,7 @@
 * Vehicle Parking System
 * Online Coding Platform [problem-statement](https://github.com/hocyadav/leetcode-lld-flipkart-coding-blox)
 
-## Engineering Blogs [Ref](https://github.com/mrbajaj/engineering-blogs/blob/master/README.md]
+## Engineering Blogs [Ref](https://github.com/mrbajaj/engineering-blogs/blob/master/README.md)
 * Airbnb-http://nerds.airbnb.com/
 * AirPair-https://www.airpair.com/posts
 * Artsy-http://artsy.github.io/
