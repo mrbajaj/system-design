@@ -159,7 +159,7 @@
 * Yelp-http://engineeringblog.yelp.com/
 * Zenpayroll-http://engineering.zenpayroll.com/
 * Zillow-https://engineering.zillow.com/
-
+* HighScalability Blog-http://highscalability.com/
 
 ## System Design Interview Approach Template
 ### THINGS TO CONSIDER [5 min]
