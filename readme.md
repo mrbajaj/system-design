@@ -164,6 +164,7 @@
 ## Other Useful Resources:
 * HOW TO ACE A SYSTEMS DESIGN INTERVIEW-https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
 * HighScalability Blog-http://highscalability.com/
+* Distributed Systems-http://book.mixu.net/distsys/single-page.html
 
 ## System Design Interview Approach Template
 ### THINGS TO CONSIDER [5 min]
