@@ -160,6 +160,9 @@
 * Yelp-http://engineeringblog.yelp.com/
 * Zenpayroll-http://engineering.zenpayroll.com/
 * Zillow-https://engineering.zillow.com/
+
+## Other Useful Resources:
+* HOW TO ACE A SYSTEMS DESIGN INTERVIEW-https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
 * HighScalability Blog-http://highscalability.com/
 
 ## System Design Interview Approach Template
