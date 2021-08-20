@@ -2,6 +2,7 @@
 * Key Characteristics and Fundamentals of Distributed Systems
 * Monolithic VS Microservice (Service Discovery, Resiliency)
 * Vertical vs horizontal scaling
+* Throughput, Latency
 * CAP theorem
 * ACID vs BASE
 * Redundancy and Replication
