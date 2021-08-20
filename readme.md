@@ -46,12 +46,10 @@
 ## Tools and Technologies
 * Cassandra
 * MongoDB/Couchbase
-* RabbitMQ / Azure Service Bus
+* RabbitMQ / Kafka / Azure Service Bus [Good Read1](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
 * Mysql / PostgreSQL
-* Memcached
-* Redis
+* Redis / Memcached
 * Zookeeper
-* Kafka
 * NGINX
 * HAProxy
 * Solr, Elastic search
