@@ -165,6 +165,7 @@
 * HOW TO ACE A SYSTEMS DESIGN INTERVIEW-https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
 * HighScalability Blog-http://highscalability.com/
 * Distributed Systems-http://book.mixu.net/distsys/single-page.html
+* Distributed Deep Dive - https://ably.com/blog/introducing-distributed-deep-dive-interview-series-by-ably-realtime
 
 ## System Design Interview Approach Template
 ### THINGS TO CONSIDER [5 min]
