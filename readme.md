@@ -45,8 +45,8 @@
 
 ## Tools and Technologies
 * Cassandra
-* MongoDB/Couchbase [Read](https://www.dotnettricks.com/learn/mongodb/what-is-mongodb-and-why-to-use-it), [Read2](https://studio3t.com/knowledge-base/articles/mongodb-advantages-use-cases/), [Read3](https://www.objectrocket.com/blog/mongodb/top-use-cases-for-mongodb/)
-* RabbitMQ / Kafka / Azure Service Bus [Good Read1](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
+* MongoDB/Couchbase [Mongo1](https://www.dotnettricks.com/learn/mongodb/what-is-mongodb-and-why-to-use-it), [Mongo2](https://studio3t.com/knowledge-base/articles/mongodb-advantages-use-cases/), [Mongo3](https://www.objectrocket.com/blog/mongodb/top-use-cases-for-mongodb/)
+* RabbitMQ / Kafka / Azure Service Bus [comparison](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
 * Mysql / PostgreSQL
 * Redis / Memcached
 * Zookeeper
