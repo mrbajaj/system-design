@@ -68,7 +68,7 @@
 * Whatsapp | Facebook Messenger [NL](https://www.youtube.com/watch?v=L7LtmfFYjc4&t=690s) [GS](https://www.youtube.com/watch?v=vvhC64hQZMk&t=1267s) [Ref](https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327)
 * MakeMyTrip | BookMyShow
 * Amazon | Flipkart
-* Youtube | Netflix
+* Youtube | Netflix [NL](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d)
 * Uber | IRCTC
 * Swiggy | Zomato
 * Yelp | Nearby
