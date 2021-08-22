@@ -49,6 +49,7 @@
   * Mongo: [Read1](https://www.tutorialspoint.com/mongodb/mongodb_overview.htm), [Read2](https://docs.mongodb.com/manual/tutorial/getting-started/), [Read3](https://www.dotnettricks.com/learn/mongodb/what-is-mongodb-and-why-to-use-it), [Read4](https://studio3t.com/knowledge-base/articles/mongodb-advantages-use-cases/), [Read5](https://www.objectrocket.com/blog/mongodb/top-use-cases-for-mongodb/), [Read6](https://docs.mongodb.com/manual/core/replica-set-elections/), [IQ's](https://www.interviewbit.com/mongodb-interview-questions/)
 * RabbitMQ / Kafka / Azure Service Bus [comparison](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
 * Mysql / PostgreSQL
+  * Scalability in Postgres 
 * Redis / Memcached
 * Zookeeper
 * NGINX
