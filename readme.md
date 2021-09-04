@@ -95,6 +95,7 @@
 * Vehicle Parking System
 * Online Coding Platform [problem-statement](https://github.com/hocyadav/leetcode-lld-flipkart-coding-blox)
 * Design Patterns [https://refactoring.guru/design-patterns]
+* Object Oriented Design Prerations [https://www.oodesign.com/]
 
 ## Engineering Blogs [Ref](https://github.com/mrbajaj/engineering-blogs/blob/master/README.md)
 * Airbnb-http://nerds.airbnb.com/
