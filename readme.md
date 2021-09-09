@@ -86,7 +86,7 @@
 * Typeahead Suggestion | Auto-complete system
 * Recommendation System
 
-## Low Level Design Problems (Class diagram)
+## Low Level Design Problems (Class diagram) [Reference](https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/)
 * Elevator system 
 * Snake and Ladder game
 * Tic Tac Toe
