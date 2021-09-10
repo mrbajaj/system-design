@@ -86,7 +86,7 @@
 * Typeahead Suggestion | Auto-complete system
 * Recommendation System
 
-## Low Level Design Problems (Class diagram) [Reference](https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/)
+## Low Level Design Problems (Machine Coding Round) [Reference](https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/)
 * Elevator system 
 * Snake and Ladder game
 * Tic Tac Toe
@@ -96,6 +96,7 @@
 * Online Coding Platform [problem-statement](https://github.com/hocyadav/leetcode-lld-flipkart-coding-blox)
 * Design Patterns [https://refactoring.guru/design-patterns]
 * Object Oriented Design Prerations [https://www.oodesign.com/]
+* [More Problems List](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 
 ## Engineering Blogs [Ref](https://github.com/mrbajaj/engineering-blogs/blob/master/README.md)
 * Airbnb-http://nerds.airbnb.com/
