@@ -16,15 +16,18 @@
 * Data center/racks/hosts
 * CPU/memory/Hard drives/Network bandwidth
 * Random vs sequential read/writes to disk
-* HTTP vs HTTP2 vs WebSocket
+* DNS lookup
+* HTTP, HTTPS, HTTP2
+  * HTTP
+  * HTTPS [Read1](https://www.thesslstore.com/blog/how-does-https-work/)
+  * HTTP & SSL/TLS
+  * Public key infrastructure and certificate authority(CA)
+  * Symmetric vs asymmetric encryption
+* WebSockets
 * Long-Polling vs WebSockets vs Server-Sent Events
 * TCP/IP model
 * IPv4 vs IPv6
 * TCP vs UDP
-* DNS lookup
-* HTTP & TLS
-* Public key infrastructure and certificate authority(CA)
-* Symmetric vs asymmetric encryption
 * Load Balancing
 * Consistent Hashing
 * CDNs & Edges
