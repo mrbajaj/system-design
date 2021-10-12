@@ -46,6 +46,14 @@
 * Multithreading, locks, synchronization, CAS(compare and set)
 * Proxies
 
+## Building Blocks of Any Frequently Asked System Design Question
+* Authentication
+* File / Media Upload
+  * S3, Multiple Quality Files
+  *   
+* WIP...
+
+
 ## Tools and Technologies
 * Cassandra
 * MongoDB/Couchbase 
