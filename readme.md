@@ -67,6 +67,7 @@
 * Mysql / PostgreSQL
   * Scalability in Postgres 
 * Redis / Memcached
+* InfluxDB [Suitable for TimeSeries, IoT data]
 * Zookeeper
 * NGINX
 * HAProxy
