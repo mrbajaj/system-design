@@ -113,6 +113,8 @@
 * Design Patterns [https://refactoring.guru/design-patterns]
 * Object Oriented Design Prerations [https://www.oodesign.com/]
 * [More Problems List](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+* Good Resources resources:
+  * https://refactoring.guru/design-patterns/what-is-pattern
 
 ## Engineering Blogs [Ref](https://github.com/mrbajaj/engineering-blogs/blob/master/README.md)
 * Airbnb-http://nerds.airbnb.com/
