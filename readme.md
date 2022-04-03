@@ -106,7 +106,7 @@
 * Elevator system 
 * Snake and Ladder game
 * Tic Tac Toe
-* ATM machine
+* ATM machine - https://medium.com/swlh/atm-an-object-oriented-design-e3a2435a0830
 * Traffic Control System
 * Vehicle Parking System
 * Online Coding Platform [problem-statement](https://github.com/hocyadav/leetcode-lld-flipkart-coding-blox)
