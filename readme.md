@@ -115,6 +115,8 @@
 * [More Problems List](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 * Good Resources resources:
   * https://refactoring.guru/design-patterns/what-is-pattern
+  * http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/coffee.pdf Recomended by - [sudoCode](https://www.youtube.com/watch?v=B3zrIwz_t4M)
+  * https://cseweb.ucsd.edu//~wgg/CSE210/ecoop93-patterns.pdf Recomended by - [sudoCode](https://www.youtube.com/watch?v=B3zrIwz_t4M)
 
 ## Engineering Blogs [Ref](https://github.com/mrbajaj/engineering-blogs/blob/master/README.md)
 * Airbnb-http://nerds.airbnb.com/
