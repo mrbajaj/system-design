@@ -110,8 +110,10 @@
 * Traffic Control System
 * Vehicle Parking System
 * Online Coding Platform [problem-statement](https://github.com/hocyadav/leetcode-lld-flipkart-coding-blox)
-* Design Patterns [https://refactoring.guru/design-patterns]
+* File Sharing System
 * Object Oriented Design Prerations [https://www.oodesign.com/]
+* SOLID Principles
+* Design Patterns [https://refactoring.guru/design-patterns]
 * [More Problems List](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 * More Good Resources:
   * https://refactoring.guru/design-patterns/what-is-pattern
