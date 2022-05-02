@@ -3,12 +3,12 @@
 * Monolithic VS Microservice (Service Discovery, Resiliency)
 * Vertical vs horizontal scaling [Watch1](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=2)
 * Load Balancing / Application Delivery Controller (ADC) [Read1](https://www.citrix.com/en-in/solutions/app-delivery-and-security/load-balancing/what-is-load-balancing.html#:~:text=Load%20balancing%20is%20a%20core,responsiveness%20and%20prevent%20server%20overload.) [Read2](https://logz.io/blog/best-open-source-load-balancers/) [Watch1](https://www.youtube.com/watch?v=K0Ta65OqQkY&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=3)
+* Consistent Hashing [Watch1](https://www.youtube.com/watch?v=zaRkONvyGr8&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=4) [Read1](https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062)
 * Throughput, Latency
 * CAP theorem
 * ACID vs BASE
 * Redundancy and Replication
 * Partitioning/Sharding 
-* Consistent Hashing
 * Optimistic vs pessimistic locking
 * Strong vs eventual consistency
 * SQL vs NoSQL
