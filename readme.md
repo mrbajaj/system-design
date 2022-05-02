@@ -1,7 +1,8 @@
 ## System Design Basics
 * Key Characteristics and Fundamentals of Distributed Systems
 * Monolithic VS Microservice (Service Discovery, Resiliency)
-* Vertical vs horizontal scaling
+* Vertical vs horizontal scaling [Watch1](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=2)
+* Load Balancing / Application Delivery Controller (ADC) [Read1](https://www.citrix.com/en-in/solutions/app-delivery-and-security/load-balancing/what-is-load-balancing.html#:~:text=Load%20balancing%20is%20a%20core,responsiveness%20and%20prevent%20server%20overload.)
 * Throughput, Latency
 * CAP theorem
 * ACID vs BASE
@@ -28,7 +29,6 @@
 * TCP/IP model
 * IPv4 vs IPv6
 * TCP vs UDP
-* Load Balancing
 * Consistent Hashing
 * CDNs & Edges
 * Data Partitioning
