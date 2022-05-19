@@ -101,6 +101,7 @@
 * Distributed cache 
 * Typeahead Suggestion | Auto-complete system
 * Recommendation System
+* Design a tagging system like tags used in LinkedIn
 
 ## Low Level Design Problems (Machine Coding Round) [Reference](https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/)
 * Elevator system 
