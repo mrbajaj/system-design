@@ -349,7 +349,8 @@ Credit: https://leetcode.com/discuss/interview-question/system-design/3616948/go
 (3) Overall latency justification
 </code></pre>
 
-#### More Resources: 
+#### More Resources:
+  * <a href="https://www.allthingsdistributed.com/"> 25 Interview Questions </a>
   * <a href="https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0"> 25 Interview Questions </a>
   * <a href="http://highscalability.com/all-time-favorites">High-Scalability</a>
   * <a href="https://www.hiredintech.com/classrooms/system-design/lesson/52">Hired In Tech </a>
